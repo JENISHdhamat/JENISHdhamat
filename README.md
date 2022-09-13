@@ -18,4 +18,5 @@ values(8,'mohit','j.g','cooking',10,'m');
 insert into Student
 values(9,'sahil','kameswer','dancing',11,'m');
 insert into Student
-values(10,'dhruv','r.b','eating',8,'m');select*from Student;
+values(10,'dhruv','r.b','eating',8,'m');
+Select*from student where colname like 'a%';
